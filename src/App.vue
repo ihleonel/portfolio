@@ -5,6 +5,7 @@ import TwitterIcon from './Components/Icons/TwitterIcon.vue';
 import Timeline from './Components/Timeline.vue';
 import Skills from './Components/Skills.vue';
 import EmailIcon from './Components/Icons/EmailIcon.vue';
+import GithubContributions from './Components/GithubContributions.vue';
 </script>
 <template>
   <main>
@@ -43,6 +44,10 @@ import EmailIcon from './Components/Icons/EmailIcon.vue';
         me siento cómodo y seguro de mis conocimientos. Aplicadas tanto en proyectos greenfields y brownfields.
       </p>
       <Skills />
+    </section>
+    <section class="contributions">
+      <h3 class="fw-bold">Contribuciones</h3>
+      <GithubContributions />
     </section>
     <section class="contact">
       <h3 class="fw-bold">Contacto</h3>
