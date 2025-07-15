@@ -16,7 +16,7 @@ import GithubContributions from './Components/GithubContributions.vue';
         <p class="description">
           Inicié mi carrera profesional como desarrollador hace más de
           6 años. Participé en multiples proyectos del sector público
-          y privado, colaborando con dististos equipos y profesionales.
+          y privado, colaborando con distintos equipos de profesionales.
         </p>
         <div class="social-media">
           <LinkedinIcon />
